@@ -1,0 +1,3 @@
+export enum BlockBonusType{
+    bomb,
+}
